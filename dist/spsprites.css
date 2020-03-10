@@ -1,0 +1,852 @@
+.spsprite.app_icon{
+	width: 97px;
+	height: 97px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -1px -30px;
+}
+
+.spsprite.up_arrow_large{
+	width: 28px;
+	height: 25px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -97px -30px;
+}
+
+.spsprite.left_arrow_dark_color{
+	width: 26px;
+	height: 25px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -125px -30px;
+}
+
+.spsprite.right_arrow_medium_color{
+	width: 28px;
+	height: 25px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -151px -30px;
+}
+
+.spsprite.circle_and_check_mark{
+	width: 18px;
+	height: 20px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -179px -30px;
+}
+
+.spsprite.lock{
+	width: 20px;
+	height: 20px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -197px -30px;
+}
+
+.spsprite.x_dark_color{
+	width: 17px;
+	height: 20px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -217px -30px;
+}
+
+.spsprite.Mail_with_alert{
+	width: 18px;
+	height: 20px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -234px -30px;
+}
+
+.spsprite.People{
+	width: 20px;
+	height: 20px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -251px -30px;
+}
+
+.spsprite.i_with_circle{
+	width: 18px;
+	height: 25px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -179px -49px;
+}
+
+.spsprite.circle_with_three_points{
+	width: 20px;
+	height: 16px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -197px -49px;
+}
+
+.spsprite.hollow_star{
+	width: 17px;
+	height: 16px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -217px -48px;
+}
+
+.spsprite.pin{
+	width: 18px;
+	height: 16px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -235px -49px;
+}
+
+.spsprite.buildings{
+	width: 20px;
+	height: 16px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -253px -49px;
+}
+
+.spsprite.three_dots{
+	width: 28px;
+	height: 26px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -97px -55px;
+}
+
+.spsprite.left_arrow_medium_color{
+	width: 26px;
+	height: 26px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -125px -55px;
+}
+
+.spsprite.right_arrow_dark_grey{
+	width: 26px;
+	height: 26px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -151px -55px;
+}
+
+.spsprite.window_reload_light{
+	width: 20px;
+	height: 17px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -197px -65px;
+}
+
+.spsprite.pencil_dark_grey{
+	width: 16px;
+	height: 17px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -217px -65px;
+}
+
+.spsprite.Blog_Rss{
+	width: 18px;
+	height: 17px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -233px -65px;
+}
+
+.spsprite.check_mark_in_box{
+	width: 20px;
+	height: 17px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -251px -65px;
+}
+
+.spsprite.x_in_circle{
+	width: 18px;
+	height: 20px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -179px -74px;
+}
+
+.spsprite.plus{
+	width: 20px;
+	height: 18px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -197px -82px;
+}
+
+.spsprite.pencil_dark_color{
+	width: 16px;
+	height: 18px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -217px -82px;
+}
+
+.spsprite.pencil_medium_grey{
+	width: 18px;
+	height: 18px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -233px -82px;
+}
+
+.spsprite.gear_dark{
+	width: 20px;
+	height: 18px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -251px -82px;
+}
+
+.spsprite.focus_on_content{
+	width: 18px;
+	height: 17px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -179px -95px;
+}
+
+.spsprite.left_arrow_lightest{
+	width: 28px;
+	height: 30px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -97px -82px;
+}
+
+.spsprite.left_arrow_light_grey{
+	width: 26px;
+	height: 30px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -125px -82px;
+}
+
+.spsprite.right_arrow_medumn_light_grey{
+	width: 26px;
+	height: 30px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -151px -82px;
+}
+
+.spsprite.window_reload_dark{
+	width: 20px;
+	height: 18px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -197px -101px;
+}
+
+.spsprite.pencil_medium_color{
+	width: 16px;
+	height: 18px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -217px -101px;
+}
+
+.spsprite.plus_in_circle_dark_color{
+	width: 18px;
+	height: 18px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -233px -101px;
+}
+
+.spsprite.light_gear{
+	width: 20px;
+	height: 18px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -251px -101px;
+}
+
+.spsprite.right_arrow_medium_color{
+	width: 26px;
+	height: 24px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -104px -112px;
+}
+
+.spsprite.reload_dark_color{
+	width: 21px;
+	height: 15px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -132px -112px;
+}
+
+.spsprite.x_medium_color{
+	width: 13px;
+	height: 15px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -161px -112px;
+}
+
+.spsprite.gear_medium{
+	width: 18px;
+	height: 18px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -179px -112px;
+}
+
+.spsprite.x_large_medium_greg{
+	width: 20px;
+	height: 17px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -197px -119px;
+}
+
+.spsprite.up_one_level_use_tinting_or_blend{
+	width: 16px;
+	height: 17px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -217px -119px;
+}
+
+.spsprite.plus_in_circle_medium_color{
+	width: 18px;
+	height: 17px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -233px -119px;
+}
+
+.spsprite.arrow_left_small_light_use_tinting_or_blend{
+	width: 20px;
+	height: 11px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -251px -119px;
+}
+
+.spsprite.reload_medium_grey{
+	width: 24px;
+	height: 26px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -1px -127px;
+}
+
+.spsprite.arrow_right_medium_grey{
+	width: 29px;
+	height: 26px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -24px -127px;
+}
+
+.spsprite.arrow_right_medium_light_grey{
+	width: 25px;
+	height: 26px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -52px -127px;
+}
+
+.spsprite.arrow_right_lightest{
+	width: 26px;
+	height: 26px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -78px -127px;
+}
+
+.spsprite.search_medium_grey{
+	width: 17px;
+	height: 16px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -108px -140px;
+}
+
+.spsprite.plus_in_circle_medium_color{
+	width: 22px;
+	height: 21px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -130px -134px;
+}
+
+.spsprite.search_dark_grey{
+	width: 20px;
+	height: 17px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -151px -136px;
+}
+
+.spsprite.x_small_medium_grey{
+	width: 11px;
+	height: 11px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -179px -136px;
+}
+
+.spsprite.arrow_up_small_use_tinting_or_blend{
+	width: 12px;
+	height: 12px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -197px -140px;
+}
+
+.spsprite.pencil_medium_dark_color{
+	width: 14px;
+	height: 14px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -217px -140px;
+}
+
+.spsprite.plus_with_circle_medium_light_color{
+	width: 17px;
+	height: 17px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -233px -137px;
+}
+
+.spsprite.exclamation{
+	width: 20px;
+	height: 17px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -251px -130px;
+}
+
+.spsprite.lower_right_tab{
+	width: 20px;
+	height: 10px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -251px -147px;
+}
+
+.spsprite.reload_light_color{
+	width: 20px;
+	height: 19px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -1px -155px;
+}
+
+.spsprite.reload_light_grey{
+	width: 25px;
+	height: 19px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -25px -155px;
+}
+
+.spsprite.arrow_right_dark_grey{
+	width: 26px;
+	height: 25px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -51px -153px;
+}
+
+.spsprite.diamond{
+	width: 20px;
+	height: 20px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -80px -155px;
+}
+
+.spsprite.check_on_paper{
+	width: 20px;
+	height: 23px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -101px -155px;
+}
+
+.spsprite.x_small_dark_color{
+	width: 14px;
+	height: 19px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -130px -155px;
+}
+
+.spsprite.x_small_dark_color_2{
+	width: 16px;
+	height: 19px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -151px -155px;
+}
+
+.spsprite.x_small_dark_grey{
+	width: 14px;
+	height: 19px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -179px -155px;
+}
+
+.spsprite.recycle_bin{
+	width: 18px;
+	height: 19px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -197px -155px;
+}
+
+.spsprite.penci_light_grey{
+	width: 12px;
+	height: 19px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -217px -155px;
+}
+
+.spsprite.arrow_down_medium_grey{
+	width: 15px;
+	height: 19px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -233px -155px;
+}
+
+.spsprite.lower_left_tab{
+	width: 20px;
+	height: 19px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -251px -155px;
+}
+
+.spsprite.x_small_dark_grey{
+	width: 20px;
+	height: 15px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -1px -183px;
+}
+
+.spsprite.x_small_medium_grey{
+	width: 15px;
+	height: 15px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -25px -183px;
+}
+
+.spsprite.warning{
+	width: 22px;
+	height: 22px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -42px -178px;
+}
+
+.spsprite.plux_in_circle_medium_light_color{
+	width: 24px;
+	height: 22px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -64px -178px;
+}
+
+.spsprite.checkbox_box{
+	width: 16px;
+	height: 16px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -88px -178px;
+}
+
+.spsprite.focus_on_page_light{
+	width: 21px;
+	height: 16px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -104px -178px;
+}
+
+.spsprite.focus_on_content_dark{
+	width: 18px;
+	height: 16px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -125px -178px;
+}
+
+.spsprite.focus_on_content_medium{
+	width: 18px;
+	height: 16px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -143px -178px;
+}
+
+.spsprite.information_circle{
+	width: 18px;
+	height: 16px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -161px -178px;
+}
+
+.spsprite.globe{
+	width: 18px;
+	height: 16px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -179px -174px;
+}
+
+.spsprite.information_color{
+	width: 20px;
+	height: 16px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -197px -174px;
+}
+
+.spsprite.pencil_medium_light2_color{
+	width: 16px;
+	height: 16px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -215px -174px;
+}
+
+.spsprite.three_dots_medium_color{
+	width: 18px;
+	height: 16px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -231px -174px;
+}
+
+.spsprite.Solid_Y{
+	width: 20px;
+	height: 12px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -251px -174px;
+}
+
+.spsprite.X_with_circle_color{
+	width: 19px;
+	height: 20px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -1px -200px;
+}
+
+.spsprite.three_dots_dark_color{
+	width: 17px;
+	height: 13px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -19px -204px;
+}
+
+.spsprite.three_dots_light{
+	width: 16px;
+	height: 13px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -37px -204px;
+}
+
+.spsprite.arrow_down_light{
+	width: 17px;
+	height: 13px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -53px -204px;
+}
+
+.spsprite.pencil_grey_medium{
+	width: 13px;
+	height: 13px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -75px -204px;
+}
+
+.spsprite.star{
+	width: 20px;
+	height: 18px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -88px -195px;
+}
+
+.spsprite.check_mark{
+	width: 17px;
+	height: 18px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -108px -195px;
+}
+
+.spsprite.plus_circle_medium_light_color{
+	width: 18px;
+	height: 18px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -125px -195px;
+}
+
+.spsprite.heatlh_of_page_light{
+	width: 18px;
+	height: 18px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -143px -195px;
+}
+
+.spsprite.health_of_page_dark{
+	width: 18px;
+	height: 18px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -161px -195px;
+}
+
+.spsprite.pencil_dark{
+	width: 18px;
+	height: 15px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -179px -195px;
+}
+
+.spsprite.x_medium_grey{
+	width: 20px;
+	height: 15px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -197px -195px;
+}
+
+.spsprite.star_hollow{
+	width: 17px;
+	height: 17px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -217px -193px;
+}
+
+.spsprite.three_dots_dark{
+	width: 17px;
+	height: 15px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -233px -195px;
+}
+
+.spsprite.arrow_right_solid{
+	width: 20px;
+	height: 13px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -251px -187px;
+}
+
+.spsprite.box_with_dots{
+	width: 20px;
+	height: 13px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -251px -200px;
+}
+
+.spsprite.x_medium_dark_color{
+	width: 19px;
+	height: 15px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -1px -218px;
+}
+
+.spsprite.x_medium_light_grey{
+	width: 15px;
+	height: 15px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -20px -218px;
+}
+
+.spsprite.refresh_dark_grey{
+	width: 15px;
+	height: 15px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -37px -218px;
+}
+
+.spsprite.refresh_light_color{
+	width: 15px;
+	height: 15px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -53px -218px;
+}
+
+.spsprite.refresh_color_dark{
+	width: 15px;
+	height: 15px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -75px -218px;
+}
+
+.spsprite.refresh_light_grey{
+	width: 20px;
+	height: 12px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -88px -216px;
+}
+
+.spsprite.photo_dark_grey{
+	width: 17px;
+	height: 12px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -108px -216px;
+}
+
+.spsprite.photo_light_color{
+	width: 18px;
+	height: 12px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -125px -216px;
+}
+
+.spsprite.photo_dark_color{
+	width: 18px;
+	height: 12px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -143px -216px;
+}
+
+.spsprite.photo_light_grey{
+	width: 18px;
+	height: 12px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -161px -216px;
+}
+
+.spsprite.paper_page{
+	width: 17px;
+	height: 19px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -180px -209px;
+}
+
+.spsprite.down_left{
+	width: 20px;
+	height: 16px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -197px -209px;
+}
+
+.spsprite.down_right{
+	width: 16px;
+	height: 16px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -217px -209px;
+}
+
+.spsprite.three_dots_medium_light_color{
+	width: 18px;
+	height: 15px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -233px -209px;
+}
+
+.spsprite.exclamation_lightest_grey{
+	width: 18px;
+	height: 15px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -251px -212px;
+}
+
+.spsprite.three_dots_medium_grey{
+	width: 19px;
+	height: 21px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -1px -233px;
+}
+
+.spsprite.warning_sign{
+	width: 18px;
+	height: 21px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -19px -233px;
+}
+
+.spsprite.open_book{
+	width: 19px;
+	height: 21px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -36px -233px;
+}
+
+.spsprite.person_check{
+	width: 20px;
+	height: 21px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -54px -233px;
+}
+
+.spsprite.down_arrow{
+	width: 11px;
+	height: 16px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -75px -233px;
+}
+
+.spsprite.circle_with_dots{
+	width: 20px;
+	height: 16px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -88px -233px;
+}
+
+.spsprite.arrow_right_light{
+	width: 17px;
+	height: 15px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -108px -233px;
+}
+
+.spsprite.arrow_left_dark{
+	width: 14px;
+	height: 15px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -130px -233px;
+}
+
+.spsprite.arrow_left_light{
+	width: 18px;
+	height: 15px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -144px -233px;
+}
+
+.spsprite.arrow_right_dark{
+	width: 18px;
+	height: 15px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -162px -233px;
+}
+
+.spsprite.arrow_right_light{
+	width: 18px;
+	height: 15px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -179px -228px;
+}
+
+.spsprite.arrow_right_dark{
+	width: 20px;
+	height: 15px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -197px -228px;
+}
+
+.spsprite.arrow_left_dark{
+	width: 17px;
+	height: 15px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -217px -228px;
+}
+
+.spsprite.arrow_left_light{
+	width: 18px;
+	height: 15px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -233px -228px;
+}
+
+.spsprite.exclamation_lightest_color{
+	width: 18px;
+	height: 15px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -251px -228px;
+}
+
+.spsprite.arrow_right{
+	width: 12px;
+	height: 11px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -1px -255px;
+}
+
+.spsprite.long_arrow_up{
+	width: 10px;
+	height: 11px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -12px -255px;
+}
+
+.spsprite.long_arrow_down{
+	width: 10px;
+	height: 11px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -23px -255px;
+}
+
+.spsprite.check_dark{
+	width: 10px;
+	height: 11px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -32px -255px;
+}
+
+.spsprite.check_light{
+	width: 12px;
+	height: 11px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -42px -255px;
+}
+
+.spsprite.small_arrow_up_light{
+	width: 10px;
+	height: 11px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -54px -255px;
+}
+
+.spsprite.down_right_arrow_dark{
+	width: 11px;
+	height: 11px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -64px -255px;
+}
+
+.spsprite.down_left_arrow_light{
+	width: 11px;
+	height: 11px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -75px -255px;
+}
+
+.spsprite.square_light{
+	width: 7px;
+	height: 7px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -91px -250px;
+}
+
+.spsprite.arrow_down_color{
+	width: 8px;
+	height: 4px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -100px -250px;
+}
+
+.spsprite.arrow_down_smaller_color{
+	width: 8px;
+	height: 4px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -108px -250px;
+}
+
+.spsprite.arrow_down_dark_grey{
+	width: 8px;
+	height: 5px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -86px -258px;
+}
+
+.spsprite.arrw_down_medium_grey{
+	width: 8px;
+	height: 5px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -95px -258px;
+}
+
+.spsprite.arrow_down_smaller_medium_grey{
+	width: 8px;
+	height: 4px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -103px -256px;
+}
+
+.spsprite.arrow_left{
+	width: 16px;
+	height: 11px;
+	background: url('/_layouts/15/images/spcommon.png?rev=23') no-repeat -251px -242px;
+}
+
